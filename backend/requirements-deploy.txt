@@ -8,7 +8,7 @@ pydantic-settings==2.1.0
 # Image processing and ML
 pillow==10.1.0
 numpy==1.26.2
-tensorflow-cpu==2.15.0
+tensorflow-macos==2.15.0
 
 # Rate limiting and middleware
 slowapi==0.1.9
