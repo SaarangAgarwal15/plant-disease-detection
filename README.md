@@ -499,14 +499,5 @@ npm run build
 4. Push to the branch: `git push origin feature/amazing-feature`
 5. Open a Pull Request
 
-## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/pkparthk/Plant-Disease-Detection/issues)
-- **Repository**: [GitHub Repository](https://github.com/pkparthk/Plant-Disease-Detection)
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
-**Made with ❤️ for plant health monitoring By Parth Kothari**
+**Made with ❤️ for plant health monitoring By Saarang Agarwal**
