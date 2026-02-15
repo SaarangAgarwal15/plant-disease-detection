@@ -476,8 +476,8 @@ cd backend
 uvicorn app.main:app --reload --log-level debug
 
 # Test API directly
-curl http://localhost:8000/api/health
-curl http://localhost:8000/model/info
+curl http://localhost:3000/api/health
+curl http://localhost:3000/model/info
 ```
 
 #### Frontend Issues
@@ -501,3 +501,4 @@ npm run build
 
 
 **Made with ❤️ for plant health monitoring By Saarang Agarwal**
+
