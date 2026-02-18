@@ -136,7 +136,7 @@ npm run dev
 
 ### 5. Test the Application
 
-1. Open http://localhost:5173 in your browser
+1. Open http://localhost:3000 in your browser
 2. Upload a plant leaf image using drag-and-drop
 3. View AI prediction results with confidence scores
 
@@ -501,4 +501,5 @@ npm run build
 
 
 **Made with ❤️ for plant health monitoring By Saarang Agarwal**
+
 
