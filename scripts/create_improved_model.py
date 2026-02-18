@@ -168,4 +168,5 @@ def create_improved_model():
     return model, model_creator.class_names
 
 if __name__ == "__main__":
+
     create_improved_model()
