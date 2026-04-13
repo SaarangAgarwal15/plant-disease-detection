@@ -236,3 +236,4 @@ security_audit.log
 *.local
 
 # Keep README, docs, source files tracked, but ignore generated artifacts.
+
