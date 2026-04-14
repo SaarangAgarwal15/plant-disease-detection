@@ -45,7 +45,7 @@ An AI-powered plant disease detection system built using deep learning, designed
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. User uploads a plant leaf image
 2. Image is preprocessed (resize, normalize)
@@ -54,7 +54,7 @@ An AI-powered plant disease detection system built using deep learning, designed
 
 ---
 
-## 📊 Model Details
+##  Model Details
 
 * Model Type: Convolutional Neural Network (CNN)
 * Classes: 30+ plant diseases
