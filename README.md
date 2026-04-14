@@ -1,11 +1,11 @@
-# 🌱 Plant Disease Detection System
+#  Plant Disease Detection System
 
 An AI-powered plant disease detection system built using deep learning, designed to classify plant leaf diseases from images with high accuracy. The system follows a full-stack architecture with a FastAPI backend and a React TypeScript frontend.
 
 <<<<<<< HEAD
 ---
 
-## 🚀 Key Highlights
+##  Key Highlights
 
 * Built a **CNN-based image classification model** for detecting 30+ plant diseases
 * Implemented **end-to-end ML pipeline**: preprocessing → training → evaluation → deployment
@@ -15,7 +15,7 @@ An AI-powered plant disease detection system built using deep learning, designed
 
 ---
 
-## 🧠 My Contribution
+##  My Contribution
 
 * Designed and trained the CNN model using TensorFlow/Keras
 * Performed dataset preprocessing (resizing, normalization, augmentation)
@@ -25,7 +25,7 @@ An AI-powered plant disease detection system built using deep learning, designed
 
 ---
 
-## 🏗️ Tech Stack
+## Tech Stack
 
 **Machine Learning**
 
@@ -63,7 +63,7 @@ An AI-powered plant disease detection system built using deep learning, designed
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * Add real-time camera detection
 * Improve accuracy using transfer learning (ResNet/EfficientNet)
@@ -72,7 +72,7 @@ An AI-powered plant disease detection system built using deep learning, designed
 
 ---
 
-## 💡 Note
+##  Note
 
 The trained model is not stored directly in the repository due to size limitations. It is loaded separately for inference to maintain a lightweight and efficient codebase.
 
@@ -84,7 +84,7 @@ Refer to the full structure and setup instructions in the documentation.
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 If you're interested in AI/ML or backend development, feel free to connect and collaborate!
 =======
